@@ -42,7 +42,7 @@ from proactive analysis.
 
 ---
 ## Project Structure
-
+```
 healthcare-quality-analysis/
 ├── Healthcare_Quality_Analysis.ipynb  # Full Python analysis
 ├── healthcare_analysis_clean.csv      # Cleaned merged dataset
@@ -52,7 +52,7 @@ healthcare-quality-analysis/
 ├── viz3_ownership_quality.png
 ├── viz4_type_quality.png
 └── viz5_correlation_heatmap.png
-
+```
 ---
 ## Technical Approach
 - **ETL:** Merged two CMS datasets on Facility ID, replaced 'Not Available' 
